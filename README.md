@@ -2,7 +2,6 @@
 
 🤓📌- Cursando: Rede de Computadores
 
--->🐧 The future is open
 <div>
   <a href="https://github.com/CA15">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CA15&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
